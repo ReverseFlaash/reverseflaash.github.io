@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.saif.hisabbook",
+    "sha256_cert_fingerprints": ["BB:91:D1:F2:E0:CB:89:18:C9:1C:26:3D:87:EE:C9:95:5E:34:33:D6:2E:75:EB:8B:DD:D5:AC:1A:12:7B:4D:1C"]
+  }
+}]
